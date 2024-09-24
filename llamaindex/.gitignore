@@ -2,3 +2,5 @@
 myenv/
 data/
 venv/
+chroma_db/
+storage/
