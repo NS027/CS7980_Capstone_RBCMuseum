@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-chroma
+langchain-huggingface
+langchain-community
+python-dotenv
+pypdf
+openai
+chromadb
+ipykernel
