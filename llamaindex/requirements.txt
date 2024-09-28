@@ -1,0 +1,8 @@
+llama-index
+openai
+python-dotenv
+ipykernel
+chroma
+firecrawl-py==0.0.20
+llama-index-readers-web
+llama-index-vector-stores-chroma
