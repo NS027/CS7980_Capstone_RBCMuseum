@@ -2,6 +2,63 @@
 
 The Avador Project is an innovative initiative aimed at creating AI-driven avatars that represent historical positions and act as digital concierges through the Royal BC Museum (RBCM) collections. By utilizing Retrieval Augmented Generation (RAG), the responses of these avatars are grounded in vetted historical sources. The avatars can also be controlled and prompted to reflect historical tones and presentations.
 
+
+## Run Environment
+
+### 1. If you just need to run the Python file
+
+First, create a virtual environment with Python 3.11:
+
+```bash
+python3.11 -m venv myenv
+```
+
+#### For macOS/Linux:
+Activate the virtual environment using:
+
+```bash
+source myenv/bin/activate
+```
+
+#### For Windows:
+Activate the virtual environment using:
+
+```bash
+myenv\Scripts\activate
+```
+
+### 2. If you need to run the Jupyter Notebook
+
+Navigate to your project directory:
+
+```bash
+cd path/to/your/file/
+```
+
+Create a Conda environment with Python 3.11:
+
+```bash
+conda create --prefix ./venv python=3.11
+```
+
+#### To activate the environment:
+
+```bash
+conda activate ./venv
+```
+
+### The Requirements
+
+To install the required packages, run:
+
+```bash
+pip install -r requirements.txt
+```
+
+### .env File
+
+Please refer to `.envexample` for setting up your environment variables.
+
 ## Project Vision
 
 The Avador project seeks to explore the potential of AI avatars to provide engaging in-person and remote experiences. The prototype was instantiated as a TV monitor (hence the name "Avador") hung on a door, where users interact with the avatar through a microphone and speaker. Gesture detection was incorporated via a depth camera in the initial prototype.
