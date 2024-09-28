@@ -1,1 +1,4 @@
 myenv/
+data/
+.env
+db/
