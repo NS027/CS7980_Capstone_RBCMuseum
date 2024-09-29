@@ -10,6 +10,7 @@ def extract_text_from_pdf(pdf_path):
                 text += page_text + "\n"
     return text
 
+
 # Extract text from your PDF file
 pdf_text = extract_text_from_pdf("data/Haida_bracelet.pdf")
 print(f"Extracted PDF text with length: {len(pdf_text)} characters")
