@@ -14,22 +14,6 @@ os.environ["OPENAI_API_KEY"] = config.OPEN_AI_API_KEY
 
 pdf_text = pdf_extraction.extract_text_from_pdf(config.PDF_FILE_PATH)
 
-
-# test_cases = [
-#     {
-#         "query": "What is the check-in time for the Airbnb?",
-#         "ground_truth": "I don't know, sorry"
-#     },
-#     {
-#         "query": "Who created the Haida Bracelet?",
-#         "ground_truth": "The Haida people."
-#     },
-#     {
-#         "query": "Where's the Haida Bracelet?",
-#         "ground_truth": "It's in the RBCM"
-#     }
-# ]
-
 queries = [
     "What is the check-in time for the Airbnb?",
     "Who created the Haida Bracelet?",
@@ -42,29 +26,6 @@ ground_truths = [
     "It's in the RBCM"
 ]
 
-
-# generated_response = []
-# contexts = []
-
-# for query in queries:
-#     response = rag_processing.generate_response_with_rag(query, pdf_text)
-   
-#     generated_response.append(response)
-#     # sources = result["source_documents"]
-#     # contents = []
-#     # for i in range(len(sources)):
-#     #     contents.append(sources[i].page_content)
-#     # contexts.append(contents)
-
-# # apply ragas evaluation
-
-# data_samples = {
-#     'question': ['When was the first super bowl?', 'Who won the most super bowls?'],
-#     'answer': ['The first superbowl was held on Jan 15, 1967', 'The most super bowls have been won by The New England Patriots'],
-#     'contexts' : [['The First AFL–NFL World Championship Game was an American football game played on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles,'], 
-#     ['The Green Bay Packers...Green Bay, Wisconsin.','The Packers compete...Football Conference']],
-#     'ground_truth': ['The first superbowl was held on January 15, 1967', 'The New England Patriots have won the Super Bowl a record six times']
-# }
 
 def generate_data_samples(queries, ground_truths, pdf_text):
 

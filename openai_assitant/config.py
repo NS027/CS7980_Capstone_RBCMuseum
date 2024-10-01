@@ -12,13 +12,13 @@ PDF_FILE_PATH = "data/Haida_bracelet.pdf"
 
 # model name
 EMBEDDING_MODEL = "text-embedding-3-large"
-GENERATION_MODEL = "gpt-3.5-turbo"
+GENERATION_MODEL = "gpt-4o"
 
 # chunk size
 CHUNK_SIZE = 1000
 
 # parameters for RAG model
-TEMPERATURE = 0.5
+TEMPERATURE = 0
 MAX_TOKENS = 100
 TOP_P = 0.98
 TOP_K = 40
