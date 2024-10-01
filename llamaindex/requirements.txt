@@ -7,3 +7,4 @@ firecrawl-py==0.0.20
 llama-index-readers-web
 llama-index-vector-stores-chroma
 pypdf
+nest_asyncio
