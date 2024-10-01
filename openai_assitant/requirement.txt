@@ -1,4 +1,0 @@
-openai   
-PyPDF2
-numpy
-scikit-learn
