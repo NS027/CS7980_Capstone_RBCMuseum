@@ -1,1 +1,7 @@
 ipykernel
+llama-index
+openai
+python-dotenv
+chroma
+llama-index-vector-stores-chroma
+nest_asyncio
