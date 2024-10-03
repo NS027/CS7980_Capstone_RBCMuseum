@@ -1,7 +1,11 @@
 
 # Project Setup Instructions
 
-Follow the steps below to set up the environment for the project:
+To replicate our experiments or to analyze our results, please ensure to fill in the necessary API keys and other configurations by creating a .env file (see .sample.env) - the .env is ignored in .gitignore for security.
+
+Setup the python environment using either venv or pyenv or your favourite python environment amanger. Call the environment  anything you like.
+
+Follow the steps below to set up the venv environment for the project:
 
 ## 1. Create the Environment
 Navigate to your project directory using the `cd` command:
