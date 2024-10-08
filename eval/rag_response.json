@@ -1,0 +1,20 @@
+{
+    "results": [
+        {
+            "query_id": "000",
+            "query": "What is Price of this course?",
+            "gt_answer": "The price of the course is $500",
+            "response": "$500",
+            "retrieved_context": [
+                {
+                    "doc_id": "d37b09b5-c690-476d-b194-6dbacc8c5e25",
+                    "text": "\"This is the best machine learning course I've done. Worth every cent.\"\n\n**Jose Reyes** , AI/ML at Cevo Australia\n\n# Building Machine Learning Systems That Don't Suck\n\nA **live, interactive program** that'll help you build **production-ready** machine learning systems from the ground up.\n\nNext cohort: November 4 - 21, 2024\n\nCheck the schedule for more details."
+                },
+                {
+                    "doc_id": "62a75aad-a40b-4143-965b-753b092ab0d8",
+                    "text": "You'll come out with practical skills and insights into what it takes to build systems that work in the real world.\n\nHere is a summary of what makes this program unique:\n\nYou'll design and write the code to build an end-to-end machine learning system starting from scratch.\nYou'll learn best practices to tackle the most significant challenges machine learning engineers face."
+                }
+            ]
+        }
+    ]
+}

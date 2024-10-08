@@ -1,4 +1,5 @@
 llama-index
-python-dotenv
 ipykernel
+python-dotenv
 ragchecker
+llama-index-readers-web
