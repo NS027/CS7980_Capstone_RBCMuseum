@@ -1,7 +1,6 @@
 llama-index
 ipykernel
 python-dotenv
-ragchecker
 llama-index-readers-web
 chromadb
 llama-index-vector-stores-chroma
