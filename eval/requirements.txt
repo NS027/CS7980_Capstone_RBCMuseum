@@ -3,3 +3,11 @@ ipykernel
 python-dotenv
 ragchecker
 llama-index-readers-web
+chromadb
+llama-index-vector-stores-chroma
+langchain
+langchain-community
+langchain-openai
+docarray
+giskard
+PyMuPDF
