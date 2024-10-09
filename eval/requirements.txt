@@ -11,3 +11,4 @@ langchain-openai
 docarray
 giskard
 PyMuPDF
+ragas
