@@ -2,3 +2,5 @@ myenv/
 data/
 .env
 db/
+evaluator/
+rag_evaluator/
