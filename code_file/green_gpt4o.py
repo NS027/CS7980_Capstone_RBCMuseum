@@ -17,7 +17,7 @@ from ragas.metrics import (
 from ragas.integrations.llama_index import evaluate
 
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 # Load environment variables
 load_dotenv()
 

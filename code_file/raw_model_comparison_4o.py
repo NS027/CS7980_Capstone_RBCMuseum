@@ -7,10 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1R38mQ429AHiyqwlbzuUVsb-nDF0QeLdK
 """
 
-! pip install llama_index
-
-! pip install ragas==0.1.21
-
 import os
 from llama_index.core import SimpleDirectoryReader
 from llama_index.core import VectorStoreIndex
@@ -31,7 +27,7 @@ from ragas.integrations.llama_index import evaluate
 
 
 # Get the API key from the environment
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
 
 # For different LLM models
