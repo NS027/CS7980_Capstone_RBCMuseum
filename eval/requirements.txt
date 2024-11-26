@@ -1,0 +1,13 @@
+llama-index
+ipykernel
+python-dotenv
+llama-index-readers-web
+chromadb
+llama-index-vector-stores-chroma
+langchain
+langchain-community
+langchain-openai
+docarray
+giskard
+PyMuPDF
+ragas

@@ -1,0 +1,7 @@
+ragchecker
+llama-index
+python-dotenv
+ipykernel
+asyncio
+ipywidgets
+llama-index-readers-web

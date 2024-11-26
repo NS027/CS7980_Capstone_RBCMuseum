@@ -1,0 +1,49 @@
+
+Part 1: Vector Focused (10 Questions)
+
+1. Question: What was Lyft's total revenue for the year 2021?
+   Answer: Lyft's total revenue for the year 2021 was $3.21 billion.
+
+2. Question: What strategic partnerships did Uber leverage for autonomous vehicles in 2021?
+   Answer: Uber partnered with Motional and Argo AI in 2021 to deploy autonomous vehicles on its platform.
+
+3. Question: How many patents did Lyft hold as of December 31, 2021?
+   Answer: Lyft held 343 issued U.S. patents and had 310 U.S. patent applications pending as of December 31, 2021.
+
+4. Question: What were Uber’s primary operating segments in 2021?
+   Answer: Uber’s primary operating segments in 2021 were Mobility, Delivery, and Freight.
+
+5. Question: How many employees did Uber have globally as of December 31, 2021?
+   Answer: Uber had approximately 29,300 employees globally as of December 31, 2021.
+
+6. Question: What commitment has Lyft made regarding electric vehicles by 2030?
+   Answer: Lyft committed to having 100% electric vehicles on its platform by 2030.
+
+7. Question: What acquisition did Uber complete in 2021 related to alcohol delivery?
+   Answer: Uber acquired The Drizly Group, Inc. in 2021 to expand its alcohol delivery offerings.
+
+8. Question: What was Lyft's market value of common stock held by non-affiliates as of June 30, 2021?
+   Answer: Lyft's market value of common stock held by non-affiliates as of June 30, 2021, was $19.6 billion.
+
+9. Question: What impact did COVID-19 have on Lyft's business in 2021?
+   Answer: COVID-19 led to decreased demand on Lyft's platform, impacting its revenues and drivers’ earning opportunities.
+
+10. Question: Which key technology partners did Lyft collaborate with in its cloud infrastructure?
+    Answer: Lyft collaborated with Amazon Web Services (AWS) for its cloud services.
+
+Part 2: Summarization Focused (5 Questions)
+
+1. Question: Summarize the impact of COVID-19 on Uber’s operations during 2021.
+   Answer: COVID-19 affected Uber’s operations in 2021, leading to reduced Mobility demand due to travel restrictions, though its Delivery segment saw growth. The pandemic also caused operational challenges in maintaining driver supply.
+
+2. Question: How did Lyft address its commitment to climate change and sustainability in 2021?
+   Answer: Lyft committed to reaching 100% electric vehicles on its platform by 2030 as part of its broader efforts toward sustainability and addressing climate change.
+
+3. Question: What were Uber’s primary areas of growth strategy in 2021?
+   Answer: Uber’s growth strategy in 2021 included expanding its platform offerings, investing in new technology, growing its Delivery and Freight businesses, and leveraging synergies across its segments.
+
+4. Question: Summarize Lyft's business model and revenue generation approach in 2021.
+   Answer: Lyft’s business model in 2021 focused on connecting riders with drivers through its ridesharing platform, generating revenue from service fees and commissions. It also expanded its offerings through Light Vehicles, public transit integration, and Lyft Rentals.
+
+5. Question: How did Uber enhance its platform's operational efficiency in 2021?
+   Answer: Uber enhanced operational efficiency in 2021 by leveraging its technology to improve demand prediction, matching, and dispatching, which reduced costs and optimized trip utilization across its platform.

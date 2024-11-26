@@ -1,0 +1,36 @@
+
+questions = [
+    "What was Lyft's total revenue for the year 2021?",
+    "What strategic partnerships did Uber leverage for autonomous vehicles in 2021?",
+    "How many patents did Lyft hold as of December 31, 2021?",
+    "What were Uber’s primary operating segments in 2021?",
+    "How many employees did Uber have globally as of December 31, 2021?",
+    "What commitment has Lyft made regarding electric vehicles by 2030?",
+    "What acquisition did Uber complete in 2021 related to alcohol delivery?",
+    "What was Lyft's market value of common stock held by non-affiliates as of June 30, 2021?",
+    "What impact did COVID-19 have on Lyft's business in 2021?",
+    "Which key technology partners did Lyft collaborate with in its cloud infrastructure?",
+    "Summarize the impact of COVID-19 on Uber’s operations during 2021.",
+    "How did Lyft address its commitment to climate change and sustainability in 2021?",
+    "What were Uber’s primary areas of growth strategy in 2021?",
+    "Summarize Lyft's business model and revenue generation approach in 2021.",
+    "How did Uber enhance its platform's operational efficiency in 2021?"
+]
+
+ground_truth = [
+    "Lyft's total revenue for the year 2021 was $3.21 billion.",
+    "Uber partnered with Motional and Argo AI in 2021 to deploy autonomous vehicles on its platform.",
+    "Lyft held 343 issued U.S. patents and had 310 U.S. patent applications pending as of December 31, 2021.",
+    "Uber’s primary operating segments in 2021 were Mobility, Delivery, and Freight.",
+    "Uber had approximately 29,300 employees globally as of December 31, 2021.",
+    "Lyft committed to having 100% electric vehicles on its platform by 2030.",
+    "Uber acquired The Drizly Group, Inc. in 2021 to expand its alcohol delivery offerings.",
+    "Lyft's market value of common stock held by non-affiliates as of June 30, 2021, was $19.6 billion.",
+    "COVID-19 led to decreased demand on Lyft's platform, impacting its revenues and drivers’ earning opportunities.",
+    "Lyft collaborated with Amazon Web Services (AWS) for its cloud services.",
+    "COVID-19 affected Uber’s operations in 2021, leading to reduced Mobility demand due to travel restrictions, though its Delivery segment saw growth. The pandemic also caused operational challenges in maintaining driver supply.",
+    "Lyft committed to reaching 100% electric vehicles on its platform by 2030 as part of its broader efforts toward sustainability and addressing climate change.",
+    "Uber’s growth strategy in 2021 included expanding its platform offerings, investing in new technology, growing its Delivery and Freight businesses, and leveraging synergies across its segments.",
+    "Lyft’s business model in 2021 focused on connecting riders with drivers through its ridesharing platform, generating revenue from service fees and commissions. It also expanded its offerings through Light Vehicles, public transit integration, and Lyft Rentals.",
+    "Uber enhanced operational efficiency in 2021 by leveraging its technology to improve demand prediction, matching, and dispatching, which reduced costs and optimized trip utilization across its platform."
+]
